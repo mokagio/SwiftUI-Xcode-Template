@@ -2,12 +2,12 @@
 //  SwiftUI_Xcode_TemplateUITests.swift
 //  SwiftUI-Xcode-TemplateUITests
 //
-//  Created by Gio on 11/8/21.
+//  Created by Gio Lodi on 12/6/2023.
 //
 
 import XCTest
 
-class SwiftUI_Xcode_TemplateUITests: XCTestCase {
+final class SwiftUI_Xcode_TemplateUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
@@ -27,7 +27,6 @@ class SwiftUI_Xcode_TemplateUITests: XCTestCase {
         let app = XCUIApplication()
         app.launch()
 
-        // Use recording to get started writing UI tests.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
 
