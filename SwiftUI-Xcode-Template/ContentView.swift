@@ -2,15 +2,20 @@
 //  ContentView.swift
 //  SwiftUI-Xcode-Template
 //
-//  Created by Gio on 11/8/21.
+//  Created by Gio Lodi on 12/6/2023.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        VStack {
+            Image(systemName: "globe")
+                .imageScale(.large)
+                .foregroundColor(.accentColor)
+            Text("Hello, world!")
+        }
+        .padding()
     }
 }
 
