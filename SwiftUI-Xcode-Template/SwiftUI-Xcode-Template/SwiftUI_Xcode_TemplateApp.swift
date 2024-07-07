@@ -2,7 +2,7 @@
 //  SwiftUI_Xcode_TemplateApp.swift
 //  SwiftUI-Xcode-Template
 //
-//  Created by Gio Lodi on 12/6/2023.
+//  Created by Gio Lodi on 7/7/2024.
 //
 
 import SwiftUI
